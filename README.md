@@ -1,6 +1,7 @@
 # MetaIP 协议1.0（中文版）
 
 ### MetaIP 1.0（元宇宙原生去中心化版权协议 1.0）概要
+### MetaIP 1.0 (Metaverse Native Decentralized Copyright Aggrement 1.0)
 
 `2022-06-12 YieldDAO Research`
 
