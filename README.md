@@ -59,7 +59,7 @@ If, for any reason, any part of the declarer's "right to share" is found to be i
 
 **4. Statement of Obligation**
 
-The affiliated person or organization of the work that applies this agreement (MetaIP 1.0) fully understands and agrees to continue to operate and promote the commercial authorization income obtained by this work, and (the affiliated person or organization of the work) promises to take out 30%~80% of its share, use In order to give back to the works related to specific public organizations and communities, and are willing to publish the performance and data.
+The affiliated person or organization of the work that applies this agreement (MetaIP 1.0) fully understands and agrees to continue to operate and promote the commercial authorization income obtained by this work, and (the affiliated person or organization of the work) promises to take out 20%~80% of its share, use In order to give back to the works related to specific public organizations and communities, and are willing to publish the performance and data.
 
 You (any individual or subset of a specific public organization group) fully understand and agree to undertake the commercial benefits obtained by copying, modifying, distributing and performing this work for commercial purposes, 5% to 10% of the benefits The share will be used to give back to the specific public organization community associated with the work or the designated authorized managers, and you promise to publish the performance and data in time.
 
