@@ -1,8 +1,8 @@
-# MetaIP 协议（中文版）
+# MetaIP 协议1.0（中文版）
 
 ### MetaIP 1.0（元宇宙原生去中心化版权协议 1.0）概要
 
-`2022-06-12` YieldDAO Research
+`2022-06-12 YieldDAO Research`
 
 在作品上适用本协议的作品关联人或组织已经将作品**分享贡献**至**特定公共组织人群（一个指定的DAO组织、一个指定NFT Collection的持有者们、一个指定的WEB3.0社群组织）**，在法律允许的范围，向且仅向该**特定公共组织人群**分享所有他在全世界范围内基于著作权法对作品享有的权利，包括所有相关权利和邻接权利。
 
@@ -69,4 +69,5 @@ MetaIP 通过关联的NFT作品来实现其数字资产的确权，是分享其M
 
 [*YieldDAO ( https://yielddao.io）*](https://yielddao.io)
 
-*注：YieldDAO 为MetaIP1.0（元宇宙原生去中心化版权协议1.0）的原始发行方与推动者，DragonCapsule龙胶囊是应用 MetaIP协议的第一个NFT作品集与元宇宙原生IP。*
+
+**注：YieldDAO 为MetaIP1.0（元宇宙原生去中心化版权协议1.0）的原始发行方与推动者，DragonCapsule龙胶囊是应用 MetaIP协议的第一个NFT作品集与元宇宙原生IP。**
